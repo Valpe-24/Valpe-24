@@ -19,4 +19,11 @@ Here you'll find my practice code from my coding immersive program.
 
 ### 👩🏽‍💻 I’m currently working on 
 
-My personal website 
+My personal website. I will be integrating my passion for 8-bit art 👾
+with a more traditional style of website. 
+
+Stay tuned to see the final result 😊
+
+
+
+
