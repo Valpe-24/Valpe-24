@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 Thanks for visiting
 
 <!--
 **Valpe-24/Valpe-24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Here you'll find my practice code from my coding immersive program. 
+
+# 👩🏽‍💻 I’m currently working on 
+
+My personal website 
