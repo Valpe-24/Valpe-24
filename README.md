@@ -15,6 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<!--
+
 Here you'll find my practice code from my coding immersive program. 
 
 ### 👩🏽‍💻 I’m currently working on 
@@ -25,6 +27,8 @@ I will be integrating my passion for 8-bit art 👾
 with a more traditional style of website. 
 
 Stay tuned to see the final result 😊
+
+-->
 
 
 
